@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 💮
+
+I'm @Jaron, a frontend design engineer based in Florida.
+
+I like turning design ideas in to colorful, accessible interfaces that feel effortless.
+
+Outside of coding, you'll find me at the gym, watching anime, or playing guitar.
+
+- Fun fact:
+- I have a dog named Elle
+- I used to play 7 different instruments
+  
 
 <!--
 **Narojj/Narojj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
