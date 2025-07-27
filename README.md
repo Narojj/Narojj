@@ -1,6 +1,6 @@
 ## Hi there 💮
 
-I'm @Jaron, a frontend design engineer based in Florida.
+I'm Jaron, a frontend design engineer based in Florida.
 
 I like turning design ideas in to colorful, accessible interfaces that feel effortless.
 
