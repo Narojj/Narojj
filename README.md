@@ -6,7 +6,7 @@ I like turning design ideas in to colorful, accessible interfaces that feel effo
 
 Outside of coding, you'll find me at the gym, watching anime, or playing guitar.
 
-- Fun fact:
+Fun fact:
 - I have a dog named Elle
 - I used to play 7 different instruments
   
