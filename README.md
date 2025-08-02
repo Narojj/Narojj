@@ -1,4 +1,4 @@
-# Hi, I'm Jaron 👋
+# Hey, I'm Jaron 👋
 
 I'm an aspiring Web Developer and HVAC technician with a passion for building practical, real-world applications and solving technical challenges. I’m currently sharpening my skills in **HTML, CSS, JavaScript**, and **React**, while also learning more advanced tools like **Node.js** and **Express**.
 
