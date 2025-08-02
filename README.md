@@ -1,6 +1,6 @@
 # Hey, I'm Jaron 👋
 
-I'm an aspiring Web Developer and HVAC technician with a passion for building practical, real-world applications and solving technical challenges. I’m currently sharpening my skills in **HTML, CSS, JavaScript**, and **React**, while also learning more advanced tools like **Node.js** and **Express**.
+I'm an aspiring Web Developer with a passion for building practical, real-world applications and solving technical challenges. I’m currently sharpening my skills in **HTML, CSS, JavaScript**, and **React**, while also learning more advanced tools like **Node.js** and **Express**.
 
 ---
 
@@ -60,27 +60,6 @@ Feel free to reach out or check out my work:
 - 📧 Email: [your.email@example.com]  
 - 🌐 Portfolio: [yourportfolio.com] *(if you have one)*  
 - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
-_Thanks for stopping by!_ 🚀
-
-
-
-
-
-## Hi there 💮
-
-I'm Jay, a frontend web developer based in Central Florida.
-
-I like creating beautiful websites with accessible interfaces that feel effortless.
-
-Outside of coding, you'll find me at the gym, watching anime, or playing guitar.
-
-I'm currently working on The Odin Project so I can become a full stack developer 
-and hopefully land my first job!
-  
-
 <!--
 **Narojj/Narojj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
