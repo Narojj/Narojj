@@ -24,42 +24,9 @@ I'm an aspiring Web Developer with a passion for building practical, real-world 
 **Tools & Other Skills:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- Static pressure, superheat/subcool diagnostics
-- Wiring & troubleshooting HVAC systems
 
 ---
 
-## 📌 Featured Projects
-
-### 🧠 [Etch-A-Sketch](https://github.com/YOUR_USERNAME/etch-a-sketch)
-A fun DOM manipulation project that mimics the classic Etch-a-Sketch toy using HTML, CSS, and JavaScript.
-
-### 🪨✂️📄 [Rock Paper Scissors Game](https://github.com/YOUR_USERNAME/rock-paper-scissors)
-A simple browser-based game to practice event handling and logic flow.
-
-### 🧮 [Calculator App](https://github.com/YOUR_USERNAME/calculator)
-An interactive calculator built from scratch to reinforce layout, functions, and JavaScript logic.
-
-> *(More projects available in my pinned repositories)*
-
----
-
-## 📚 Currently Learning
-
-- Advanced React concepts and hooks  
-- Working with APIs and backend integration  
-- Deployment and hosting (Netlify, Vercel, GitHub Pages)  
-- HVAC automation and IoT integration ideas  
-
----
-
-## 📫 Let's Connect
-
-Feel free to reach out or check out my work:
-
-- 📧 Email: [your.email@example.com]  
-- 🌐 Portfolio: [yourportfolio.com] *(if you have one)*  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 <!--
 **Narojj/Narojj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
