@@ -1,6 +1,6 @@
 # Hey, I'm Jaron 👋
 
-I'm an aspiring Web Developer with a passion for building practical, real-world applications and solving technical challenges. I’m currently sharpening my skills in **HTML, CSS, and JavaScript**, while also learning more advanced tools like **React**, **Node.js** and **Python**.
+I'm a Web Developer with a passion for building practical, real-world applications and solving technical challenges. I’m currently sharpening my skills in **HTML, CSS, and JavaScript**, while also learning more advanced tools like **React**, **Node.js** and **Python**.
 
 ---
 
