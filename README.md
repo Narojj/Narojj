@@ -2,7 +2,7 @@
 
 Hi, I’m Jaron, an independent web developer passionate about building clean, responsive, and user-focused web applications. I enjoy turning ideas into functional, visually engaging experiences using technologies like React, Node.js, Tailwind CSS, JavaScript, and SQL.
 
-I’ve built several full-stack projects that reflect real-world functionality—such as a React + Node.js job listing app that simulates a modern employment platform with dynamic API data and responsive design.
+I’ve built several full-stack projects that reflect real-world functionality—such as a job listing app that simulates a modern employment platform with dynamic API data and responsive design.
 
 My goal is to keep growing as a developer, contribute to open-source projects, and collaborate on solutions that make the web more efficient and enjoyable to use.
 
