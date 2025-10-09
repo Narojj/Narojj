@@ -1,28 +1,34 @@
-# Hey, I'm Jaron 👋
+👋 About Me
 
-I'm a Web Developer with a passion for building practical, real-world applications and solving technical challenges. I’m currently sharpening my skills in **HTML, CSS, and JavaScript**, while also learning more advanced tools like **React**, **Node.js** and **Figma**.
+Hi, I’m Jaron, an independent web developer passionate about building clean, responsive, and user-focused web applications. I enjoy turning ideas into functional, visually engaging experiences using technologies like React, Node.js, Tailwind CSS, JavaScript, and SQL.
 
----
+I’ve built several full-stack projects that reflect real-world functionality—such as a React + Node.js job listing app that simulates a modern employment platform with dynamic API data and responsive design.
 
-## 💼 What I'm Working On
+My goal is to keep growing as a developer, contribute to open-source projects, and collaborate on solutions that make the web more efficient and enjoyable to use.
 
-- Completing the [Odin Project](https://www.theodinproject.com/) full stack curriculum  
-- Developing a portfolio that highlights real-world projects  
-- Continuing hands-on experience with HVAC systems and diagnostics  
+💡 Tech Stack
 
----
+Frontend: HTML, CSS, JavaScript, React, Tailwind CSS, jQuery
 
-## 🛠️ Skills
+Backend: Node.js, Express.js
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Database: SQL, MongoDB (learning)
 
-**Tools & Other Skills:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+Other Skills: REST APIs, Git/GitHub, JSON, responsive design
 
+🚀 What I’m Working On
+
+Expanding my portfolio with new full-stack applications
+
+Learning TypeScript and Next.js
+
+Contributing to open-source projects to strengthen my collaboration skills
+
+📫 Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/jaron-r/
+
+Email: Jaron.Rolls12@gmail.com
 ---
 
 <!--
