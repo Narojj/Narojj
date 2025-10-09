@@ -24,11 +24,6 @@ Learning TypeScript and Next.js
 
 Contributing to open-source projects to strengthen my collaboration skills
 
-📫 Connect with Me
-
-LinkedIn: https://www.linkedin.com/in/jaron-r/
-
-Email: Jaron.Rolls12@gmail.com
 ---
 
 <!--
